@@ -1,20 +1,15 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "MSc in Water Resources Management",
+    duration: "2022 - 2024",
+    institution: "niversity of Maragheh (Public University)",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "BSc in Executive Civil Engineering",
+    duration: "2015 - 2019",
+    institution: "Islamic Azad University of Urmia",
   },
-  {
-    id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
+ 
 ]

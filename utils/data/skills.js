@@ -1,24 +1,12 @@
 export const skillsData = [
-  'HTML',
-  'CSS',
-  'Javascript',
-  'Typescript',
-  'React',
-  'Next JS',
-  'Tailwind',
-  'MongoDB',
-  'MySQL',
-  'PostgreSQL',
-  'Git',
-  'AWS',
-  'Bootstrap',
-  'Docker',
-  'Go',
-  'Figma',
-  'Firebase',
-  'MaterialUI',
-  'Nginx',
-  'Strapi'
+'Project Management & Construction Supervision',
+'Water Network Design & Irrigation Systems',
+'Quality Control (QC) and Site Safety',
+'AutoCAD, Civil 3D, WaterGEMS, EPANET, MS Project, Excel',
+'Strong teamwork, leadership, and problem-solving abilities',
+'Technical Reporting & Documentation',
+'English: Fluent | Persian: Native'
+
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.

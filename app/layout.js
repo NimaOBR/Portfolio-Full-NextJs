@@ -10,9 +10,9 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Abu Said - Software Developer",
+  title: "Omid-Soleymani",
   description:
-    "This is the portfolio of Abu Said. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "Civil and Water Resources Engineer with over 7 years of professional experience in construction management, quality supervision, and water supply network projects. Proven expertise in executing residential and infrastructure projects totaling more than 15,000 m², including road construction and irrigation systems. Experienced in academic teaching and technical writing, with one published university-level book in water engineering. Strong leadership, project management, and teamwork skills with a solid background in AutoCAD, Civil 3D, EPANET, and WaterGEMS.",
 };
 
 export default function RootLayout({ children }) {
